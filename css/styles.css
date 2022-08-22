@@ -1,0 +1,75 @@
+div {
+    background-color: #e3dac9;
+}
+
+body {
+    margin: 0px;
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: #e3dac9;
+    text-align: center;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    font-family: 'VT323', monospace;
+    font-size: 5rem;
+    color: #276ac9;
+    line-height: 150%;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #276ac9;
+    font-weight: normal;
+}
+
+h3 {
+    color: #FF6600;
+}
+
+a {
+    color: #FF6600;
+}
+
+.top-container {
+    margin: 0 auto 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+.bottom-container {
+    margin: auto;
+    bottom: 16px;
+}
+
+.cloud {
+    width: 1100px;
+    position: relative;
+    display: inline-block;
+    text-align: left;
+}
+
+hr {
+    width: 300px;
+    border-width: 10px;
+    border-style: dotted none none none;
+    color: rgb(119, 0, 255);
+}
+
+.undertitle {
+    font-size: 1rem
+}
+
+.mountains {
+    width: 950px;
+    margin: auto auto auto auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 19 auto 10 auto;
+}
+
+.blackegg {
+    height: 320px;
+}
