@@ -67,9 +67,24 @@ hr {
 
 .skill-row {
     width: 50%;
-    margin: 19 auto 10 auto;
+    height: 40%;
+    margin: 10 auto 10 auto;
+    text-align: left;
+    line-height: 200%;
 }
 
 .blackegg {
-    height: 320px;
+    height: 250px;
+}
+
+.computer {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+
+.kingdice {
+    margin-left: 3px;
+    float: right;
+    width: 25%;
 }
